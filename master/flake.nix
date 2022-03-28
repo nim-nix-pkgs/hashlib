@@ -11,6 +11,7 @@
   inputs.src-hashlib-master.ref   = "refs/heads/master";
   inputs.src-hashlib-master.owner = "khchen";
   inputs.src-hashlib-master.repo  = "hashlib";
+  inputs.src-hashlib-master.dir   = "";
   inputs.src-hashlib-master.type  = "github";
   
   inputs."nimcrypto".owner = "nim-nix-pkgs";
